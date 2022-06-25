@@ -1,0 +1,16 @@
+zad. 2
+
+jesli nie jest dodane zdalne repozytorium najpierw trzeba je dodać komendą git remote add origin <link do zdalnego repo>
+
+git status
+git add .
+git commit -m "komentarz"
+git push 
+
+zad. 3
+
+1. Select * from CoffeShop where product in (‘Latte’, ‘Long Black’) and city not in (‘Philadelphia’)
+
+2. Select  Product  from CoffeShop where Customer ref in (‘william thompson_86’, ‘mark taylor_113’)
+
+3. Select distinct City from CoffeShop where Product in ('Flat White', 'Cappuccino') 
